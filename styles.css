@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 8px;
+}
+.task1 {
+    background-color: lightgreen; 
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.task2 {
+    background-color: lightcoral; 
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.task3 {
+    background-color: #FFC0CB; 
+    padding: 15px;
+    border-radius: 8px;
+}
+.input-field {
+    width: 300px;
+    height: 30px;
+    font-size: 16px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+button {
+    height: 40px;
+    font-size: 18px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
